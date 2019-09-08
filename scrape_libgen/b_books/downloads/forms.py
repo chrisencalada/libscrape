@@ -39,7 +39,7 @@ def Author(request):
             cd = form['A_Name'].value()
             if Books.objects.filter(Author__contains=cd).exists():
                 end = time.time()
-                logger.error('total'+' ' +str(end-start))
+                logger.debug('total'+' ' +str(end-start))
 
                 return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title'))})            
             else:
@@ -68,7 +68,7 @@ def Author(request):
                 
                 #assert False
                 end = time.time()
-                logger.error('total'+' ' +str(end-start))
+                logger.debug('total'+' ' +str(end-start))
                 return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title'))})
 
     else:

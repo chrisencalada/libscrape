@@ -7227,3 +7227,22 @@ INFO 2019-09-08 21:30:02,246 autoreload 26038 140735295475712 Watching for file 
 ERROR 2019-09-08 21:30:04,488 forms 26038 123145312813056 total 0.007861852645874023
 INFO 2019-09-08 21:30:28,063 autoreload 26038 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
 INFO 2019-09-08 21:30:28,642 autoreload 26041 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 21:33:28,133 autoreload 26221 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:07:57,524 autoreload 26221 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-08 22:07:58,397 autoreload 26285 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:08:08,449 autoreload 26285 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-08 22:08:09,121 autoreload 26287 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:08:17,972 autoreload 26287 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
+INFO 2019-09-08 22:08:18,567 autoreload 26289 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:08:45,098 autoreload 26289 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
+INFO 2019-09-08 22:08:45,680 autoreload 26291 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:09:11,192 autoreload 26291 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
+INFO 2019-09-08 22:09:11,847 autoreload 26293 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:09:16,161 autoreload 26293 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
+INFO 2019-09-08 22:09:16,747 autoreload 26295 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:09:19,936 autoreload 26295 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
+INFO 2019-09-08 22:09:20,514 autoreload 26297 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:09:25,880 autoreload 26297 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
+INFO 2019-09-08 22:09:26,534 autoreload 26299 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:09:43,227 autoreload 26299 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
+INFO 2019-09-08 22:09:43,867 autoreload 26301 140735295475712 Watching for file changes with StatReloader

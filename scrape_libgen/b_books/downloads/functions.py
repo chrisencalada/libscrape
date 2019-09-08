@@ -60,7 +60,7 @@ def scrape(input_author):
     s = requests.Session()
     book_list = []
     for page in range(1,10,1):
-        logger.error('page' + str(page))
+        logger.debug('page' + str(page))
         url = 'http://gen.lib.rus.ec/search.php?'
         payload = {"req":input_author,"page":page,"res":100,"phrase":1}
         
@@ -98,7 +98,7 @@ def scrape(input_author):
             
             book_list.append(cell_value)
         end = time.time()
-        logger.error('sub-requests' +' '+ str(end-start))
+        logger.debug('sub-requests' +' '+ str(end-start))
 
     return book_list
 
@@ -116,6 +116,6 @@ def make_dict_get_urls(input_author):
             if value == '':
                 book[key] = 'NA'
     end = time.time()
-    logger.error('dict' +' '+ str(end-start))
+    logger.debug('dict' +' '+ str(end-start))
     
     return dictList
