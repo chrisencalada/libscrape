@@ -12,3 +12,29 @@ ERROR 2019-09-06 18:24:37,280 functions 11571 123145312813056 page2
 ERROR 2019-09-06 18:24:40,547 functions 11571 123145312813056 requesting 3.2661430835723877
 ERROR 2019-09-06 18:24:49,253 functions 11571 123145312813056 dict 8.457561254501343
 ERROR 2019-09-06 18:24:49,655 forms 11571 123145312813056 total 19.502142906188965
+ERROR 2019-09-08 21:24:31,509 log 25999 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 40, in Author
+    if Books.objects.get(Author__contains=cd).exists():
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/db/models/query.py", line 412, in get
+    (self.model._meta.object_name, num)
+downloads.models.Books.MultipleObjectsReturned: get() returned more than one Books -- it returned 166!
+ERROR 2019-09-08 21:27:12,651 functions 26022 123145312813056 page1
+ERROR 2019-09-08 21:27:19,156 functions 26022 123145312813056 requesting 6.504235744476318
+ERROR 2019-09-08 21:27:20,288 functions 26022 123145312813056 sub-requests 0.14404082298278809
+ERROR 2019-09-08 21:27:20,288 functions 26022 123145312813056 page2
+ERROR 2019-09-08 21:27:20,936 functions 26022 123145312813056 requesting 0.6474399566650391
+ERROR 2019-09-08 21:27:21,754 functions 26022 123145312813056 sub-requests 0.08769702911376953
+ERROR 2019-09-08 21:27:21,755 functions 26022 123145312813056 page3
+ERROR 2019-09-08 21:27:22,177 functions 26022 123145312813056 requesting 0.4216318130493164
+ERROR 2019-09-08 21:27:53,790 functions 26022 123145312813056 dict 31.347049951553345
+ERROR 2019-09-08 21:27:54,613 forms 26022 123145312813056 total 42.02308893203735
+ERROR 2019-09-08 21:30:04,488 forms 26038 123145312813056 total 0.007861852645874023

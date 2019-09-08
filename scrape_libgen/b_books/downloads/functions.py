@@ -18,7 +18,11 @@ logger = logging.getLogger(__name__)
 
 def request_multithread(booklist):
     sessions = requests.Session()
-    response = sessions.get(booklist['Mirrors'])
+    proxies = {'http': 'socks5h://x1566907:b63SAHfRsG@proxy-nl.privateinternetaccess.com:1080',
+    'https': 'socks5h://x1566907:b63SAHfRsG@proxy-nl.privateinternetaccess.com:1080'}
+    user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'
+    headers = {'User-Agent':user_agent}
+    response = sessions.get(booklist['Mirrors'], proxies=proxies,headers=headers)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text,features='html5lib')
         pathname = soup.find('a',href=True)
