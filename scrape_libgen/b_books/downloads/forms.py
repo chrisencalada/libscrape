@@ -43,9 +43,7 @@ def Author(request):
 
                 return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title'))})            
             else:
-
-                check = make_dict_get_urls(cd)
-                hold = check
+                hold = make_dict_get_urls(cd)
 
                 #2.
                 for x in hold:

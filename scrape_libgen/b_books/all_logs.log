@@ -7246,3 +7246,29 @@ INFO 2019-09-08 22:09:25,880 autoreload 26297 140735295475712 /Users/christopher
 INFO 2019-09-08 22:09:26,534 autoreload 26299 140735295475712 Watching for file changes with StatReloader
 INFO 2019-09-08 22:09:43,227 autoreload 26299 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
 INFO 2019-09-08 22:09:43,867 autoreload 26301 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:25:50,418 autoreload 80897 4328515008 Watching for file changes with StatReloader
+WARNING 2019-09-08 22:26:11,250 log 80897 123145569714176 Not Found: /favicon.ico
+DEBUG 2019-09-08 22:26:16,223 functions 80897 123145569714176 page1
+DEBUG 2019-09-08 22:26:16,253 connectionpool 80897 123145569714176 Starting new HTTP connection (1): gen.lib.rus.ec:80
+DEBUG 2019-09-08 22:26:22,368 connectionpool 80897 123145569714176 http://gen.lib.rus.ec:80 "GET /search.php?req=Ted+Chiang&page=1&res=100&phrase=1 HTTP/1.1" 200 8364
+ERROR 2019-09-08 22:26:22,369 functions 80897 123145569714176 requesting 6.146154880523682
+DEBUG 2019-09-08 22:26:22,548 functions 80897 123145569714176 sub-requests 0.0038039684295654297
+DEBUG 2019-09-08 22:26:22,548 functions 80897 123145569714176 page2
+DEBUG 2019-09-08 22:26:22,839 connectionpool 80897 123145569714176 http://gen.lib.rus.ec:80 "GET /search.php?req=Ted+Chiang&page=2&res=100&phrase=1 HTTP/1.1" 200 7535
+ERROR 2019-09-08 22:26:22,842 functions 80897 123145569714176 requesting 0.29333996772766113
+DEBUG 2019-09-08 22:26:23,037 connectionpool 81741 123145569714176 Starting new HTTP connection (1): 93.174.95.29:80
+DEBUG 2019-09-08 22:26:23,037 connectionpool 81742 123145569714176 Starting new HTTP connection (1): 93.174.95.29:80
+DEBUG 2019-09-08 22:26:23,037 connectionpool 81740 123145569714176 Starting new HTTP connection (1): 93.174.95.29:80
+DEBUG 2019-09-08 22:26:23,038 connectionpool 81743 123145569714176 Starting new HTTP connection (1): 93.174.95.29:80
+DEBUG 2019-09-08 22:26:24,236 connectionpool 81742 123145569714176 http://93.174.95.29:80 "GET /_ads/CD1D6CA99CE68DE8155F276DF3A0748B HTTP/1.1" 503 608
+DEBUG 2019-09-08 22:26:24,241 connectionpool 81743 123145569714176 http://93.174.95.29:80 "GET /_ads/529B0A8959F4B4EC81F84FC0B3D72A56 HTTP/1.1" 200 1706
+DEBUG 2019-09-08 22:26:44,079 connectionpool 81741 123145569714176 http://93.174.95.29:80 "GET /_ads/167E06F8297C4CE76A9D55098BF028BB HTTP/1.1" 200 997
+DEBUG 2019-09-08 22:26:44,081 connectionpool 81740 123145569714176 http://93.174.95.29:80 "GET /_ads/52E4643D76A3671D69514A1628373DFB HTTP/1.1" 200 1389
+DEBUG 2019-09-08 22:26:44,090 functions 80897 123145569714176 dict 21.124122858047485
+DEBUG 2019-09-08 22:26:44,112 forms 80897 123145569714176 total 27.94835114479065
+WARNING 2019-09-08 22:27:56,190 log 80897 123145569714176 Not Found: /favicon.ico
+DEBUG 2019-09-08 22:27:58,992 forms 80897 123145569714176 total 0.01606607437133789
+INFO 2019-09-08 22:29:07,554 autoreload 80897 4328515008 /Users/ygao/Code/libscrape/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-08 22:29:08,169 autoreload 84209 4548978112 Watching for file changes with StatReloader
+INFO 2019-09-08 22:29:11,878 autoreload 84209 4548978112 /Users/ygao/Code/libscrape/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-08 22:29:12,219 autoreload 84266 4612662720 Watching for file changes with StatReloader
