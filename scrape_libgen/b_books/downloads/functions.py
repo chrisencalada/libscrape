@@ -26,9 +26,7 @@ def request_multithread(booklist):
     if response.status_code == 200:
         soup = BeautifulSoup(response.text,features='html5lib')
         pathname = soup.find('a',href=True)
-        if pathname is None:
-            pass
-        else:
+        if pathname:
             sld = booklist['Mirrors'].split('_')[0]
             sld = sld[:-1]
             booklist['Mirrors'] = sld + pathname['href']

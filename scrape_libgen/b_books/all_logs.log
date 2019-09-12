@@ -7246,3 +7246,1279 @@ INFO 2019-09-08 22:09:25,880 autoreload 26297 140735295475712 /Users/christopher
 INFO 2019-09-08 22:09:26,534 autoreload 26299 140735295475712 Watching for file changes with StatReloader
 INFO 2019-09-08 22:09:43,227 autoreload 26299 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
 INFO 2019-09-08 22:09:43,867 autoreload 26301 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-08 22:24:26,774 autoreload 26301 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/functions.py changed, reloading.
+INFO 2019-09-08 22:24:27,640 autoreload 26522 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 16:57:01,605 autoreload 27268 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 16:57:28,197 autoreload 27268 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 16:57:28,777 autoreload 27269 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 16:57:31,325 autoreload 27269 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 16:57:31,858 autoreload 27271 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 16:57:44,052 autoreload 27271 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 16:57:44,643 autoreload 27273 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 16:59:06,606 autoreload 27273 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 16:59:07,341 autoreload 27276 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:00:49,694 autoreload 27276 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 17:00:50,438 autoreload 27280 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:02:02,971 autoreload 27296 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:04:51,630 autoreload 27296 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 17:04:52,427 autoreload 27299 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:25:15,028 autoreload 27299 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:25:15,759 autoreload 27322 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:25:23,429 autoreload 27322 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:25:24,061 autoreload 27324 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:49:34,099 autoreload 27324 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:49:34,857 autoreload 27351 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:49:36,884 autoreload 27351 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:49:37,499 autoreload 27352 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:49:44,025 autoreload 27352 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:49:44,639 autoreload 27354 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:49:57,796 autoreload 27354 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:49:58,394 autoreload 27356 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:50:17,159 autoreload 27356 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:50:17,725 autoreload 27358 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:50:57,616 autoreload 27358 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:50:58,330 autoreload 27361 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:51:08,293 autoreload 27361 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:51:08,852 autoreload 27363 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 17:51:11,977 autoreload 27363 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 17:51:12,561 autoreload 27365 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 17:51:30,624 forms 27365 123145312813056 total 0.007537126541137695
+ERROR 2019-09-09 17:51:30,716 log 27365 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect('Author',A_Name=cd)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with keyword arguments '{'A_Name': 'haruki murakami'}' not found. 1 pattern(s) tried: ['authors/(?P<A_name>[^/]+)/$']
+INFO 2019-09-09 17:56:26,277 autoreload 27365 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 17:56:27,081 autoreload 27375 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 17:56:42,121 forms 27375 123145312813056 total 0.006990909576416016
+ERROR 2019-09-09 17:56:42,193 log 27375 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect('Author',A_Name=cd)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with keyword arguments '{'A_Name': 'murakami'}' not found. 1 pattern(s) tried: ['authors/(?P<A_name>[^/]+)/$']
+DEBUG 2019-09-09 17:58:18,319 forms 27375 123145312813056 total 0.006510019302368164
+ERROR 2019-09-09 17:58:18,384 log 27375 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect('Author',A_Name=cd)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with keyword arguments '{'A_Name': 'murakami'}' not found. 1 pattern(s) tried: ['authors/(?P<A_name>[^/]+)/$']
+INFO 2019-09-09 18:37:30,635 autoreload 27375 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 18:37:31,396 autoreload 27422 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 18:40:57,134 autoreload 27422 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:40:57,678 autoreload 27425 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 18:41:59,011 autoreload 27425 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:41:59,596 autoreload 27429 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:42:05,703 forms 27429 123145312813056 total 0.003139972686767578
+ERROR 2019-09-09 18:42:05,772 log 27429 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect(reverse('Author',A_Name=cd))
+NameError: name 'reverse' is not defined
+INFO 2019-09-09 18:42:55,756 autoreload 27429 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:42:56,409 autoreload 27440 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:43:00,233 forms 27440 123145312813056 total 0.0030901432037353516
+ERROR 2019-09-09 18:43:00,299 log 27440 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 46, in Author
+    return redirect(reverse('Author',A_Name=cd))
+TypeError: reverse() got an unexpected keyword argument 'A_Name'
+INFO 2019-09-09 18:43:28,782 autoreload 27440 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:43:29,416 autoreload 27443 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 18:43:50,421 autoreload 27443 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:43:51,007 autoreload 27445 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:43:53,936 forms 27445 123145312813056 total 0.0029420852661132812
+ERROR 2019-09-09 18:43:54,011 log 27445 123145312813056 Internal Server Error: /authors/murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: Author_specific() got an unexpected keyword argument 'A_name'
+INFO 2019-09-09 18:47:58,829 autoreload 27445 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:47:59,475 autoreload 27450 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:48:02,018 forms 27450 123145312813056 total 0.0039708614349365234
+ERROR 2019-09-09 18:48:02,079 log 27450 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 46, in Author
+    return redirect(reverse('Author',args=[A_Name]))
+NameError: name 'A_Name' is not defined
+INFO 2019-09-09 18:49:11,991 autoreload 27450 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:49:12,567 autoreload 27453 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:49:16,955 forms 27453 123145312813056 total 0.002521038055419922
+ERROR 2019-09-09 18:49:17,020 log 27453 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 46, in Author
+    return redirect(reverse('A:Author',args=[A_Name]))
+NameError: name 'A_Name' is not defined
+INFO 2019-09-09 18:49:45,073 autoreload 27453 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 18:49:45,672 autoreload 27455 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 18:49:58,874 autoreload 27455 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:49:59,464 autoreload 27457 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:50:09,852 forms 27457 123145312813056 total 0.002293825149536133
+ERROR 2019-09-09 18:50:09,919 log 27457 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 75, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'A'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 47, in Author
+    return redirect(reverse('A:Author',args=[name]))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'A' is not a registered namespace
+INFO 2019-09-09 18:51:12,346 autoreload 27457 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 18:51:13,068 autoreload 27466 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:51:30,938 forms 27466 123145312813056 total 0.002588987350463867
+ERROR 2019-09-09 18:51:31,016 log 27466 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 75, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'A'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 47, in Author
+    return redirect(reverse('A:Author',args=[name]))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'A' is not a registered namespace
+INFO 2019-09-09 18:51:37,558 autoreload 27466 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 18:51:38,169 autoreload 27469 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 18:51:41,333 autoreload 27469 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:51:41,941 autoreload 27471 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:51:43,900 forms 27471 123145312813056 total 0.0036847591400146484
+ERROR 2019-09-09 18:51:44,001 log 27471 123145312813056 Internal Server Error: /murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: Author_specific() got an unexpected keyword argument 'name'
+INFO 2019-09-09 18:52:44,901 autoreload 27471 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 18:52:45,536 autoreload 27476 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:52:48,212 forms 27476 123145312813056 total 0.003862619400024414
+ERROR 2019-09-09 18:52:48,280 log 27476 123145312813056 Internal Server Error: /murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: Author_specific() got an unexpected keyword argument 'name'
+INFO 2019-09-09 18:53:13,511 autoreload 27476 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 18:53:14,124 autoreload 27478 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:53:15,794 forms 27478 123145312813056 total 0.003178834915161133
+ERROR 2019-09-09 18:53:15,860 log 27478 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 47, in Author
+    return redirect(reverse('Author'))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with no arguments not found. 1 pattern(s) tried: ['(?P<name>[^/]+)/$']
+INFO 2019-09-09 18:53:30,827 autoreload 27478 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 18:53:31,450 autoreload 27480 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:53:32,978 forms 27480 123145312813056 total 0.0021779537200927734
+INFO 2019-09-09 18:53:55,881 autoreload 27480 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 18:53:56,459 autoreload 27482 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 18:54:02,785 forms 27482 123145312813056 total 0.0029981136322021484
+INFO 2019-09-09 19:12:53,632 autoreload 27482 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 19:12:54,419 autoreload 27508 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 19:12:56,586 autoreload 27508 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 19:12:57,234 autoreload 27510 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 19:16:18,436 autoreload 27510 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 19:16:19,139 autoreload 27519 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:09:30,896 autoreload 27519 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:09:31,661 autoreload 27580 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:09:34,964 autoreload 27580 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:09:35,634 autoreload 27582 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:10:18,223 autoreload 27582 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 21:10:18,940 autoreload 27586 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:10:24,332 autoreload 27586 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 21:10:24,915 autoreload 27588 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:10:26,885 autoreload 27588 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:10:27,479 autoreload 27590 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:10:56,152 autoreload 27590 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:10:56,737 autoreload 27593 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:11:02,591 autoreload 27593 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:11:03,156 autoreload 27596 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:11:08,988 autoreload 27596 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:11:09,553 autoreload 27599 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:11:29,320 autoreload 27599 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:11:29,973 autoreload 27601 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:11:38,620 autoreload 27601 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:11:39,213 autoreload 27603 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:12:01,262 autoreload 27603 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:12:01,840 autoreload 27605 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:12:09,372 autoreload 27605 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:12:10,005 autoreload 27607 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:12:15,335 autoreload 27607 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 21:12:15,883 autoreload 27609 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:12:30,560 autoreload 27626 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:12:55,917 autoreload 27626 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 21:12:56,483 autoreload 27627 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:13:06,588 autoreload 27627 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:13:07,162 autoreload 27630 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 21:13:15,706 forms 27630 123145312813056 total 0.006145954132080078
+ERROR 2019-09-09 21:13:15,766 log 27630 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 47, in Author
+    return redirect(Author_redirect)
+NameError: name 'Author_redirect' is not defined
+INFO 2019-09-09 21:13:30,677 autoreload 27630 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 21:13:31,288 autoreload 27632 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:13:53,367 autoreload 27632 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:13:53,999 autoreload 27634 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 21:13:57,622 forms 27634 123145312813056 total 0.00580286979675293
+ERROR 2019-09-09 21:13:57,688 log 27634 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 47, in Author
+    return redirect(Author_redirect)
+NameError: name 'Author_redirect' is not defined
+INFO 2019-09-09 21:14:18,720 autoreload 27634 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:14:19,321 autoreload 27637 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 21:14:23,706 forms 27637 123145312813056 total 0.0036420822143554688
+ERROR 2019-09-09 21:14:23,779 log 27637 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 46, in Author
+    return redirect(Author_redirect)
+NameError: name 'Author_redirect' is not defined
+INFO 2019-09-09 21:14:29,570 autoreload 27637 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 21:14:30,121 autoreload 27639 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:14:39,971 autoreload 27639 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:14:40,575 autoreload 27641 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:14:43,753 autoreload 27641 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 21:14:44,297 autoreload 27643 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:15:01,913 autoreload 27643 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 21:15:02,457 autoreload 27645 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:15:07,793 autoreload 27645 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 21:15:08,409 autoreload 27647 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 21:15:12,326 forms 27647 123145312813056 total 0.0031359195709228516
+ERROR 2019-09-09 21:15:12,394 log 27647 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 46, in Author
+    return redirect(Author_redirect)
+NameError: name 'Author_redirect' is not defined
+INFO 2019-09-09 21:16:31,039 autoreload 27647 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:16:31,773 autoreload 27651 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:16:35,046 autoreload 27651 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:16:35,578 autoreload 27653 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:16:48,766 autoreload 27653 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:16:49,357 autoreload 27655 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:16:59,191 autoreload 27655 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:16:59,739 autoreload 27657 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:17:06,246 autoreload 27657 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:17:06,909 autoreload 27659 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 21:17:09,838 forms 27659 123145312813056 total 0.003384113311767578
+ERROR 2019-09-09 21:17:09,916 log 27659 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    logger.debug(reverse('Author/'))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author/' not found. 'Author/' is not a valid view function or pattern name.
+INFO 2019-09-09 21:18:25,193 autoreload 27659 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:18:25,969 autoreload 27664 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:18:31,488 autoreload 27664 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:18:32,062 autoreload 27666 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 21:18:34,099 autoreload 27666 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 21:18:34,736 autoreload 27668 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 21:18:37,306 forms 27668 123145312813056 total 0.0034389495849609375
+DEBUG 2019-09-09 21:18:37,309 forms 27668 123145312813056 /Author/
+INFO 2019-09-09 22:50:52,934 autoreload 27668 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 22:50:53,677 autoreload 27907 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:51:13,594 autoreload 27907 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 22:51:14,162 autoreload 27909 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:52:31,239 autoreload 27909 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 22:52:31,982 autoreload 27914 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:52:36,335 autoreload 27914 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 22:52:36,942 autoreload 27916 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:52:40,111 autoreload 27916 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-09 22:52:40,704 autoreload 27918 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:53:07,272 autoreload 27918 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:53:07,897 autoreload 27920 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 22:53:10,964 forms 27920 123145312813056 total 0.006754159927368164
+ERROR 2019-09-09 22:53:11,036 log 27920 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    logger.debug(reverse('Author'))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with no arguments not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+INFO 2019-09-09 22:53:33,764 autoreload 27920 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:53:34,384 autoreload 27923 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 22:53:35,800 forms 27923 123145312813056 total 0.0027511119842529297
+ERROR 2019-09-09 22:53:35,886 log 27923 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    logger.debug(reverse('Author'))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with no arguments not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+INFO 2019-09-09 22:53:52,285 autoreload 27923 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:53:52,875 autoreload 27926 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 22:53:54,505 forms 27926 123145312813056 total 0.003754854202270508
+ERROR 2019-09-09 22:53:54,576 log 27926 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    logger.debug(reverse('Author',name=cd))
+TypeError: reverse() got an unexpected keyword argument 'name'
+INFO 2019-09-09 22:56:42,978 autoreload 27926 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 22:56:43,719 autoreload 27932 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:57:08,054 autoreload 27932 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:57:08,596 autoreload 27934 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:57:21,732 autoreload 27934 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:57:22,282 autoreload 27936 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:57:28,733 autoreload 27936 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:57:29,305 autoreload 27938 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 22:57:42,622 forms 27938 123145312813056 total 0.002507925033569336
+ERROR 2019-09-09 22:57:42,700 log 27938 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    logger.debug(reverse('Author'))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with no arguments not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+INFO 2019-09-09 22:57:58,460 autoreload 27938 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:57:59,279 autoreload 27941 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 22:58:11,390 forms 27941 123145312813056 total 0.0025119781494140625
+ERROR 2019-09-09 22:58:11,459 log 27941 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect(reverse('Author'),args=cd)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with no arguments not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+INFO 2019-09-09 22:58:55,503 autoreload 27941 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:58:56,234 autoreload 27949 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 22:58:59,020 forms 27949 123145312813056 total 0.002240896224975586
+ERROR 2019-09-09 22:58:59,105 log 27949 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect('Author',args=cd)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with keyword arguments '{'args': 'murakami'}' not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+INFO 2019-09-09 22:59:15,441 autoreload 27949 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:59:15,994 autoreload 27951 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:59:32,933 autoreload 27951 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:59:33,486 autoreload 27955 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 22:59:38,487 forms 27955 123145312813056 total 0.002174854278564453
+ERROR 2019-09-09 22:59:38,553 log 27955 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect(reverse('Author',args=cd))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with arguments '('m', 'u', 'r', 'a', 'k', 'a', 'm', 'i')' not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+INFO 2019-09-09 22:59:50,219 autoreload 27955 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:59:50,790 autoreload 27958 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 22:59:53,283 autoreload 27958 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 22:59:53,863 autoreload 27960 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 22:59:56,742 forms 27960 123145312813056 total 0.002218008041381836
+ERROR 2019-09-09 22:59:56,815 log 27960 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect(reverse('Author',args=str(cd)))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with arguments '('m', 'u', 'r', 'a', 'k', 'a', 'm', 'i')' not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+DEBUG 2019-09-09 23:00:17,668 forms 27960 123145312813056 total 0.003935813903808594
+ERROR 2019-09-09 23:00:17,741 log 27960 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect(reverse('Author',args=str(cd)))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with arguments '('m', 'u', 'r', 'a', 'k', 'a', 'm', 'i')' not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+INFO 2019-09-09 23:02:15,134 autoreload 27960 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:02:15,854 autoreload 27977 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:03:31,809 autoreload 27977 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:03:32,567 autoreload 27980 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:03:47,436 autoreload 27980 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:03:48,009 autoreload 27984 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:03:50,831 forms 27984 123145312813056 total 0.0034148693084716797
+ERROR 2019-09-09 23:03:50,901 log 27984 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/forms/forms.py", line 163, in __getitem__
+    field = self.fields[name]
+KeyError: 'A_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect(reverse('Author',args=form['A_name'].value()))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/forms/forms.py", line 169, in __getitem__
+    ', '.join(sorted(f for f in self.fields)),
+KeyError: "Key 'A_name' not found in 'AuthorForm'. Choices are: A_Name."
+INFO 2019-09-09 23:03:58,383 autoreload 27984 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:03:59,041 autoreload 27987 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:04:00,236 forms 27987 123145312813056 total 0.002318143844604492
+ERROR 2019-09-09 23:04:00,317 log 27987 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect(reverse('Author',args=form['A_Name'].value()))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with arguments '('m', 'u', 'r', 'a', 'k', 'a', 'm', 'i')' not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+INFO 2019-09-09 23:04:09,057 autoreload 27987 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:04:09,675 autoreload 27989 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:04:10,930 forms 27989 123145312813056 total 0.0022230148315429688
+ERROR 2019-09-09 23:04:11,033 log 27989 123145312813056 Internal Server Error: /Author/<input type="text" name="A_Name" value="murakami" maxlength="100" id="id_A_Name" required>/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 15, in Author_redirect
+    return render(request,'downloads/index.html',name)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/backends/django.py", line 59, in render
+    context = make_context(context, request, autoescape=self.backend.engine.autoescape)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/context.py", line 270, in make_context
+    raise TypeError('context must be a dict rather than %s.' % context.__class__.__name__)
+TypeError: context must be a dict rather than str.
+INFO 2019-09-09 23:05:09,894 autoreload 27989 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:05:10,517 autoreload 27991 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:05:16,063 forms 27991 123145312813056 total 0.002995014190673828
+INFO 2019-09-09 23:07:03,850 autoreload 27991 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:07:04,593 autoreload 28003 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:07:07,832 autoreload 28003 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:07:08,416 autoreload 28005 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:07:11,836 forms 28005 123145312813056 total 0.00412297248840332
+ERROR 2019-09-09 23:07:11,910 log 28005 123145312813056 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py", line 45, in Author
+    return redirect(reverse('Author',args=name))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Author' with arguments '('m', 'u', 'r', 'a', 'k', 'a', 'm', 'i')' not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/$']
+INFO 2019-09-09 23:07:15,387 autoreload 28005 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:07:15,986 autoreload 28008 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:08:16,129 autoreload 28008 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:08:16,834 autoreload 28016 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:08:21,176 autoreload 28016 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:08:21,764 autoreload 28018 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:08:32,711 autoreload 28018 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:08:33,311 autoreload 28020 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:08:36,900 forms 28020 123145312813056 total 0.002468109130859375
+INFO 2019-09-09 23:27:14,198 autoreload 28020 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:27:14,956 autoreload 28081 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:27:27,389 forms 28081 123145312813056 total 0.002670764923095703
+INFO 2019-09-09 23:27:36,136 autoreload 28081 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:27:36,749 autoreload 28084 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:27:45,713 autoreload 28084 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:27:46,304 autoreload 28087 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:27:54,085 forms 28087 123145312813056 total 0.0034477710723876953
+INFO 2019-09-09 23:31:33,787 autoreload 28087 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:31:34,372 autoreload 28095 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:31:45,359 autoreload 28095 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:31:45,957 autoreload 28097 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:31:48,004 autoreload 28097 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:31:48,606 autoreload 28098 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:31:50,644 autoreload 28098 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:31:51,248 autoreload 28100 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:31:59,002 forms 28100 123145312813056 total 0.004757881164550781
+ERROR 2019-09-09 23:31:59,082 log 28100 123145312813056 Internal Server Error: /Author/murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: Author_redirect() got an unexpected keyword argument 'name'
+INFO 2019-09-09 23:32:35,093 autoreload 28100 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:32:35,697 autoreload 28105 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:32:39,796 forms 28105 123145312813056 total 0.003531932830810547
+ERROR 2019-09-09 23:32:39,861 log 28105 123145312813056 Internal Server Error: /Author/murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: Author_redirect() got an unexpected keyword argument 'name'
+INFO 2019-09-09 23:32:45,910 autoreload 28105 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:32:46,508 autoreload 28107 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:32:48,540 autoreload 28107 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:32:49,154 autoreload 28108 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:32:50,381 forms 28108 123145312813056 total 0.002161264419555664
+INFO 2019-09-09 23:32:54,606 autoreload 28108 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:32:55,149 autoreload 28110 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:32:57,165 autoreload 28110 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:32:57,778 autoreload 28112 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:33:00,976 autoreload 28112 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:33:01,569 autoreload 28114 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:33:04,288 forms 28114 123145312813056 total 0.003075838088989258
+ERROR 2019-09-09 23:33:04,361 log 28114 123145312813056 Internal Server Error: /Author/murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: Author_redirect() missing 1 required positional argument: 'cd'
+INFO 2019-09-09 23:33:11,571 autoreload 28114 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:33:12,123 autoreload 28116 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:33:18,579 autoreload 28116 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:33:19,151 autoreload 28118 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:33:21,247 forms 28118 123145312813056 total 0.003034830093383789
+ERROR 2019-09-09 23:33:21,320 log 28118 123145312813056 Internal Server Error: /Author/murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: Author_redirect() missing 1 required positional argument: 'cd'
+INFO 2019-09-09 23:33:33,844 autoreload 28118 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:33:34,442 autoreload 28120 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:33:45,347 autoreload 28120 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:33:45,969 autoreload 28125 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:33:53,552 autoreload 28125 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:33:54,156 autoreload 28128 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:34:01,596 autoreload 28128 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:34:02,181 autoreload 28130 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:34:06,158 forms 28130 123145312813056 total 0.0021047592163085938
+ERROR 2019-09-09 23:34:06,223 log 28130 123145312813056 Internal Server Error: /Author/murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: Author_redirect() missing 1 required positional argument: 'cd'
+INFO 2019-09-09 23:34:22,305 autoreload 28130 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:34:22,883 autoreload 28132 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:34:27,179 autoreload 28132 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:34:27,761 autoreload 28134 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:54:51,918 autoreload 28134 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-09 23:54:52,483 autoreload 28177 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-09 23:55:01,259 autoreload 28177 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:55:01,873 autoreload 28179 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:55:09,803 forms 28179 123145312813056 total 0.0035381317138671875
+ERROR 2019-09-09 23:55:09,881 log 28179 123145312813056 Internal Server Error: /Author/murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 15, in Author_redirect
+    return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=name).distinct().annotate(Title_count=Count('Title'))})
+NameError: name 'Count' is not defined
+INFO 2019-09-09 23:55:42,529 autoreload 28179 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:55:43,148 autoreload 28185 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:55:46,975 forms 28185 123145312813056 total 0.0025467872619628906
+INFO 2019-09-09 23:56:32,656 autoreload 28185 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-09 23:56:33,278 autoreload 28190 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-09 23:56:46,323 forms 28190 123145312813056 total 0.0029518604278564453
+DEBUG 2019-09-09 23:56:55,547 forms 28190 123145312813056 total 0.003779172897338867
+DEBUG 2019-09-10 00:04:32,929 forms 28190 123145312813056 total 0.002727985382080078
+INFO 2019-09-10 00:04:54,181 autoreload 28190 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-10 00:04:54,761 autoreload 28204 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 00:05:09,096 autoreload 28204 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-10 00:05:09,714 autoreload 28206 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-10 00:05:24,408 forms 28206 123145312813056 total 0.003147125244140625
+INFO 2019-09-10 00:06:19,355 autoreload 28206 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 00:06:19,958 autoreload 28211 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-10 00:12:10,731 forms 28211 123145312813056 total 0.0036339759826660156
+INFO 2019-09-10 00:12:49,477 autoreload 28211 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-10 00:12:50,055 autoreload 28215 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 00:13:08,883 autoreload 28215 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-10 00:13:09,450 autoreload 28217 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 00:13:12,537 autoreload 28217 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-10 00:13:13,129 autoreload 28219 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 00:14:44,916 autoreload 28219 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-10 00:14:45,518 autoreload 28221 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 00:21:06,397 autoreload 28221 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 00:21:07,013 autoreload 28248 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 00:21:22,341 autoreload 28248 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-10 00:21:22,905 autoreload 28250 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 00:38:00,891 autoreload 28250 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-10 00:38:01,577 autoreload 28269 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 00:39:50,086 autoreload 28269 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-10 00:39:50,662 autoreload 28271 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 00:39:53,143 autoreload 28271 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-10 00:39:53,655 autoreload 28273 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 01:45:50,049 autoreload 28273 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-10 01:45:50,772 autoreload 28358 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 01:46:11,812 autoreload 28358 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 01:46:12,379 autoreload 28360 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 01:46:17,111 autoreload 28360 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 01:46:17,638 autoreload 28362 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 01:46:27,936 autoreload 28362 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 01:46:28,478 autoreload 28364 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 01:46:45,018 autoreload 28364 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 01:46:45,622 autoreload 28367 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 01:47:34,580 autoreload 28367 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 01:47:35,214 autoreload 28369 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 01:48:05,182 autoreload 28369 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 01:48:05,781 autoreload 28371 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-10 02:05:19,118 forms 28371 123145312813056 total 0.010297060012817383
+ERROR 2019-09-10 02:05:19,283 log 28371 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 18, in Author_redirect
+    return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=name).distinct().annotate(Title_count=Count('Title'))})
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'books' with no arguments not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/books$']
+INFO 2019-09-10 21:04:27,981 autoreload 28917 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 21:04:41,455 autoreload 28917 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 21:04:42,137 autoreload 28918 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 21:05:15,788 autoreload 28918 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 21:05:16,596 autoreload 28920 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-10 21:05:31,138 autoreload 28920 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 21:05:32,036 autoreload 28922 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-10 21:05:39,767 forms 28922 123145312813056 total 0.015022039413452148
+ERROR 2019-09-10 21:05:40,017 log 28922 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 20, in Author_redirect
+    return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=name).distinct().annotate(Title_count=Count('Title'))})
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'books' with no arguments not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/books$']
+DEBUG 2019-09-10 21:06:06,446 forms 28922 123145312813056 total 0.002807140350341797
+ERROR 2019-09-10 21:06:06,546 log 28922 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 20, in Author_redirect
+    return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=name).distinct().annotate(Title_count=Count('Title'))})
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'books' with no arguments not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/books$']
+INFO 2019-09-10 21:06:31,159 autoreload 28922 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-10 21:06:31,853 autoreload 28930 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-10 21:06:44,742 forms 28930 123145312813056 total 0.002920866012573242
+ERROR 2019-09-10 21:06:44,861 log 28930 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 20, in Author_redirect
+    return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=name).distinct().annotate(Title_count=Count('Title'))})
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'books' not found. 'books' is not a valid view function or pattern name.
+DEBUG 2019-09-10 21:07:13,139 forms 28930 123145312813056 total 0.0026721954345703125
+INFO 2019-09-10 21:07:31,483 autoreload 28930 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 21:07:32,245 autoreload 28938 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-10 21:07:35,895 forms 28938 123145312813056 total 0.0034401416778564453
+ERROR 2019-09-10 21:07:35,970 log 28938 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 18, in Author_redirect
+    print(x[1])
+IndexError: list index out of range
+INFO 2019-09-10 21:07:41,519 autoreload 28938 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 21:07:42,148 autoreload 28940 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-10 21:07:43,989 forms 28940 123145312813056 total 0.003571033477783203
+ERROR 2019-09-10 21:07:44,075 log 28940 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 18, in Author_redirect
+    print(x[0])
+IndexError: list index out of range
+DEBUG 2019-09-10 21:08:07,983 forms 28940 123145312813056 total 0.002499103546142578
+ERROR 2019-09-10 21:08:08,043 log 28940 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 18, in Author_redirect
+    print(x[0])
+IndexError: list index out of range
+INFO 2019-09-10 21:08:14,889 autoreload 28940 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-10 21:08:15,489 autoreload 28942 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-10 21:08:19,019 forms 28942 123145312813056 total 0.002443075180053711
+DEBUG 2019-09-10 21:09:59,448 forms 28942 123145312813056 total 0.002789735794067383
+DEBUG 2019-09-10 21:22:47,840 forms 28942 123145312813056 total 0.003718852996826172
+INFO 2019-09-11 21:19:41,070 autoreload 28942 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:19:41,828 autoreload 29252 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:19:47,256 autoreload 29252 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:19:47,810 autoreload 29254 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:19:50,953 autoreload 29254 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:19:51,552 autoreload 29256 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:20:51,715 autoreload 29256 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:20:52,288 autoreload 29259 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:21:01,427 autoreload 29259 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:21:01,972 autoreload 29262 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:21:44,053 autoreload 29262 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:21:44,652 autoreload 29264 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:21:57,851 autoreload 29264 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:21:58,399 autoreload 29266 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:22:05,936 autoreload 29266 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:22:06,508 autoreload 29268 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-11 21:22:25,055 forms 29268 123145312813056 total 0.0029802322387695312
+ERROR 2019-09-11 21:22:29,178 log 29268 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 18, in Author_redirect
+    form = AuthorForm(request.post)
+AttributeError: 'WSGIRequest' object has no attribute 'post'
+INFO 2019-09-11 21:22:53,835 autoreload 29268 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:22:54,435 autoreload 29271 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:23:09,135 autoreload 29271 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:23:09,728 autoreload 29273 140735295475712 Watching for file changes with StatReloader
+ERROR 2019-09-11 21:23:18,195 log 29273 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 21, in Author_redirect
+    print(x)
+UnboundLocalError: local variable 'x' referenced before assignment
+INFO 2019-09-11 21:23:23,166 autoreload 29273 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:23:23,723 autoreload 29275 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:23:30,235 autoreload 29275 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:23:30,826 autoreload 29278 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:26:59,967 autoreload 29278 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:27:00,573 autoreload 29293 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:30:36,025 autoreload 29293 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:30:36,585 autoreload 29298 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-11 21:30:51,292 forms 29298 123145312813056 total 0.003173828125
+INFO 2019-09-11 21:31:26,012 autoreload 29298 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:31:26,609 autoreload 29301 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:34:02,237 autoreload 29301 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:34:02,829 autoreload 29306 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:34:07,132 autoreload 29306 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:34:07,729 autoreload 29308 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:34:14,265 autoreload 29308 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:34:14,856 autoreload 29310 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:34:21,335 autoreload 29310 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:34:21,928 autoreload 29312 140735295475712 Watching for file changes with StatReloader
+ERROR 2019-09-11 21:34:30,138 log 29312 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view downloads.views.Author_redirect didn't return an HttpResponse object. It returned None instead.
+INFO 2019-09-11 21:35:38,237 autoreload 29312 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:35:38,964 autoreload 29317 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:35:53,504 autoreload 29317 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:35:54,111 autoreload 29319 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:38:56,446 autoreload 29319 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:38:57,183 autoreload 29329 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:39:11,831 autoreload 29329 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:39:12,432 autoreload 29332 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:40:10,581 autoreload 29332 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:40:11,173 autoreload 29334 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:40:25,464 autoreload 29334 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:40:26,058 autoreload 29336 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:57:31,208 autoreload 29336 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:57:31,961 autoreload 29390 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:57:55,577 autoreload 29390 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:57:56,169 autoreload 29393 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:58:04,876 autoreload 29393 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:58:05,443 autoreload 29395 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:58:14,177 autoreload 29395 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:58:14,759 autoreload 29398 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:58:22,385 autoreload 29398 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:58:22,977 autoreload 29400 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:59:00,871 autoreload 29400 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:59:01,434 autoreload 29402 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 21:59:05,722 autoreload 29402 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 21:59:06,316 autoreload 29404 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 22:12:49,254 autoreload 29404 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 22:12:49,843 autoreload 29421 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-11 22:21:24,042 autoreload 29421 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-11 22:21:24,630 autoreload 29444 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 00:04:49,999 autoreload 29444 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 00:04:50,892 autoreload 29499 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 00:04:54,137 autoreload 29499 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 00:04:54,726 autoreload 29501 140735295475712 Watching for file changes with StatReloader
+DEBUG 2019-09-12 00:12:11,584 forms 29501 123145312813056 total 0.0030052661895751953
+DEBUG 2019-09-12 00:13:25,673 forms 29501 123145312813056 total 0.0029268264770507812
+INFO 2019-09-12 00:16:22,350 autoreload 29501 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 00:16:22,877 autoreload 29534 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 00:16:29,279 autoreload 29534 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 00:16:29,923 autoreload 29536 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 00:16:34,245 autoreload 29536 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 00:16:34,913 autoreload 29538 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 00:16:54,593 autoreload 29538 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 00:16:55,206 autoreload 29542 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 00:17:09,850 autoreload 29542 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 00:17:10,449 autoreload 29545 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 00:17:57,416 autoreload 29545 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 00:17:58,014 autoreload 29547 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 00:18:23,734 autoreload 29547 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 00:18:24,349 autoreload 29554 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 04:21:07,719 autoreload 29554 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 04:21:08,509 autoreload 29689 140735295475712 Watching for file changes with StatReloader
+ERROR 2019-09-12 04:21:49,937 log 29689 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/forms/forms.py", line 163, in __getitem__
+    field = self.fields[name]
+KeyError: 'get_book'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 22, in Author_redirect
+    print(form['get_book'].value())
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/forms/forms.py", line 169, in __getitem__
+    ', '.join(sorted(f for f in self.fields)),
+KeyError: "Key 'get_book' not found in 'AuthorForm'. Choices are: A_Name."
+INFO 2019-09-12 04:22:50,092 autoreload 29689 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 04:22:50,636 autoreload 29695 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 04:48:57,227 autoreload 29695 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 04:48:58,050 autoreload 29713 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 04:49:17,236 autoreload 29713 140735295475712 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 04:49:17,818 autoreload 29716 140735295475712 Watching for file changes with StatReloader
+INFO 2019-09-12 20:34:22,801 autoreload 850 140735152484352 Watching for file changes with StatReloader
+WARNING 2019-09-12 20:34:28,475 log 850 123145312813056 Not Found: /favicon.ico
+DEBUG 2019-09-12 20:34:32,589 forms 850 123145312813056 total 0.009305238723754883
+DEBUG 2019-09-12 20:35:15,963 forms 850 123145312813056 total 0.0038290023803710938
+INFO 2019-09-12 20:36:13,432 autoreload 876 140735152484352 Watching for file changes with StatReloader
+DEBUG 2019-09-12 20:37:49,510 forms 876 123145312813056 total 0.0034852027893066406
+INFO 2019-09-12 20:42:38,586 autoreload 651 140735239954432 Watching for file changes with StatReloader
+WARNING 2019-09-12 20:42:43,606 log 651 123145312813056 Not Found: /favicon.ico
+DEBUG 2019-09-12 20:42:48,542 forms 651 123145312813056 total 0.008344173431396484
+INFO 2019-09-12 20:46:58,389 autoreload 651 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:46:59,199 autoreload 677 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:48:01,495 autoreload 677 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:48:02,316 autoreload 685 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:48:34,589 autoreload 685 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:48:35,180 autoreload 687 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:48:53,994 autoreload 687 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:48:54,588 autoreload 689 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:49:01,075 autoreload 689 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/urls.py changed, reloading.
+INFO 2019-09-12 20:49:01,648 autoreload 691 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:49:05,925 autoreload 691 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:49:06,525 autoreload 693 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:49:15,300 autoreload 693 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:49:16,095 autoreload 695 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:49:20,495 autoreload 695 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:49:21,151 autoreload 697 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:49:51,212 autoreload 697 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:49:51,839 autoreload 699 140735239954432 Watching for file changes with StatReloader
+ERROR 2019-09-12 20:50:08,207 log 699 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 21, in Author_redirect
+    return redirect(reverse('books',args=selected_author))
+NameError: name 'reverse' is not defined
+INFO 2019-09-12 20:50:20,994 autoreload 699 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:50:21,790 autoreload 702 140735239954432 Watching for file changes with StatReloader
+ERROR 2019-09-12 20:50:25,630 log 702 123145312813056 Internal Server Error: /Author/haruki murakami/
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 22, in Author_redirect
+    return redirect(reverse('books',args=selected_author))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'books' with arguments '('H', 'a', 'r', 'u', 'k', 'i', ' ', 'M', 'u', 'r', 'a', 'k', 'a', 'm', 'i')' not found. 1 pattern(s) tried: ['Author/(?P<name>[^/]+)/books$']
+INFO 2019-09-12 20:50:54,613 autoreload 702 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:50:55,357 autoreload 707 140735239954432 Watching for file changes with StatReloader
+ERROR 2019-09-12 20:51:00,690 log 707 123145312813056 Internal Server Error: /Author/Haruki Murakami/books
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 29, in books_redirect
+    return render(request, 'downloads/book_detail.html',{'name':Books.objects.values('Title').filter(Author__contains=selected_author).distinct()})
+NameError: name 'selected_author' is not defined
+INFO 2019-09-12 20:51:06,688 autoreload 707 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:51:07,337 autoreload 710 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:51:25,055 autoreload 710 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:51:25,663 autoreload 712 140735239954432 Watching for file changes with StatReloader
+ERROR 2019-09-12 20:51:29,036 log 712 123145312813056 Internal Server Error: /Author/Haruki Murakami/books
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: books_redirect() got an unexpected keyword argument 'name'
+INFO 2019-09-12 20:51:56,295 autoreload 712 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:51:56,889 autoreload 716 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:52:02,334 autoreload 716 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:52:02,917 autoreload 718 140735239954432 Watching for file changes with StatReloader
+ERROR 2019-09-12 20:52:06,470 log 718 123145312813056 Internal Server Error: /Author/Haruki Murakami/books
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: books_redirect() got an unexpected keyword argument 'name'
+INFO 2019-09-12 20:52:15,315 autoreload 718 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:52:15,917 autoreload 720 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:52:22,401 autoreload 720 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:52:23,052 autoreload 722 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 20:54:29,231 autoreload 722 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:54:30,004 autoreload 737 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-12 20:54:42,152 forms 737 123145312813056 total 0.00386810302734375
+INFO 2019-09-12 20:56:20,844 autoreload 737 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 20:56:21,609 autoreload 747 140735239954432 Watching for file changes with StatReloader

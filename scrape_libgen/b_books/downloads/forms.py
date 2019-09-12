@@ -1,6 +1,7 @@
 from django import forms
+from django.urls import reverse
 from django.forms import ModelForm
-from django.shortcuts import get_object_or_404, render_to_response, render
+from django.shortcuts import get_object_or_404, render_to_response, render, redirect
 from django.http import HttpResponseRedirect
 from django.utils import timezone
 from django.template import RequestContext
@@ -9,8 +10,10 @@ import logging
 import time
 from django.db.models import Count
 from .functions import request_multithread, request_w_proxies, scrape, make_dict_get_urls
-
 #core
+#1. make author names into slugs
+#2. 
+#2. connect that view to the render command at the end of the form.py
 #1. if more than 10 pages of results our if statement doesn't work anymore
 #1. check why sometimes you get nonetype failures
 #NoneType' object is not subscriptable
@@ -28,7 +31,7 @@ logger = logging.getLogger(__name__)
 class AuthorForm(forms.Form):
     A_Name = forms.CharField(label='Author Name',max_length=100)
 
-#@csrf_exempt
+
 def Author(request):
     submitted = False
     if request.method == 'POST':
@@ -37,17 +40,16 @@ def Author(request):
             # add book name search functionality
             start = time.time()
             cd = form['A_Name'].value()
+            name = [cd]
             if Books.objects.filter(Author__contains=cd).exists():
                 end = time.time()
                 logger.debug('total'+' ' +str(end-start))
-
-                return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title'))})            
+                return redirect(reverse('Author',args=name))
+                #return redirect(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title'))})            
             else:
 
-                check = make_dict_get_urls(cd)
-                hold = check
+                hold = make_dict_get_urls(cd)
 
-                #2.
                 for x in hold:
                     p = Books(
                     ID=x['ID'],
@@ -64,12 +66,10 @@ def Author(request):
                     created_at =timezone.now()
                     )
                     p.save()
-                #3. return only a distinct list of authors whose name matches entered name
-                
-                #assert False
                 end = time.time()
                 logger.debug('total'+' ' +str(end-start))
-                return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title'))})
+                return redirect(reverse('Author',args=name))
+                #return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title'))})
 
     else:
         form = AuthorForm()
