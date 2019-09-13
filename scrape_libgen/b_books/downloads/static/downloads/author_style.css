@@ -1,36 +1,35 @@
+body {
+    text-align: center;
+}
 
 .wrapper{
     text-align: center;
-        padding-top: 6.5em;
-
+    padding-top: 6.5em;
 }
 
 .Author{
 	text-align: center;
 }
-#table_1{ max-width: 500px;
+#table_1{ max-width: 600px;
 margin-left: auto; 
 margin-right: auto;
 vertical-align: middle;
-}
-.contains {margin-left: auto;
-margin-right: auto;
-vertical-align: middle;
+display: inline-block;
 text-align: center;
-width: 100%;
 }
-body {
-    text-align: center;
+#Title{
+	max-width: 200px;
 }
-form {
-    display: inline-block;
+#Mirror{
+	word-break: break-all;
+
 }
 
 
-input {	
-    height: 30px;
+td a{
+	display: block;
+	width: 100%;
 }
-
 
 .navbar {
 	padding-top: 0 !important;

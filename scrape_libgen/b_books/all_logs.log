@@ -8522,3 +8522,156 @@ INFO 2019-09-12 20:54:30,004 autoreload 737 140735239954432 Watching for file ch
 DEBUG 2019-09-12 20:54:42,152 forms 737 123145312813056 total 0.00386810302734375
 INFO 2019-09-12 20:56:20,844 autoreload 737 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
 INFO 2019-09-12 20:56:21,609 autoreload 747 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-12 21:23:25,973 autoreload 943 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-12 22:08:35,607 forms 943 123145312813056 total 0.002671957015991211
+DEBUG 2019-09-12 22:15:29,650 forms 943 123145312813056 total 0.0030531883239746094
+DEBUG 2019-09-12 22:19:38,294 forms 943 123145312813056 total 0.0037539005279541016
+DEBUG 2019-09-12 22:20:37,134 forms 943 123145312813056 total 0.002499818801879883
+DEBUG 2019-09-12 22:23:44,661 forms 943 123145312813056 total 0.0023958683013916016
+DEBUG 2019-09-12 22:27:37,274 forms 943 123145312813056 total 0.0025577545166015625
+DEBUG 2019-09-12 22:28:20,715 forms 943 123145312813056 total 0.002588987350463867
+DEBUG 2019-09-12 22:28:45,925 forms 943 123145312813056 total 0.002850055694580078
+INFO 2019-09-12 22:30:06,713 autoreload 1180 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-12 22:30:16,152 forms 1180 123145312813056 total 0.004193782806396484
+DEBUG 2019-09-12 22:30:46,596 forms 1180 123145312813056 total 0.0021610260009765625
+INFO 2019-09-12 22:32:09,650 autoreload 1201 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-12 22:32:21,007 forms 1201 123145312813056 total 0.002935171127319336
+DEBUG 2019-09-12 22:32:43,560 forms 1201 123145312813056 total 0.002343893051147461
+DEBUG 2019-09-12 22:33:10,071 forms 1201 123145312813056 total 0.0033767223358154297
+INFO 2019-09-12 22:39:50,244 autoreload 1201 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-12 22:39:50,899 autoreload 1214 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-12 22:40:14,216 forms 1214 123145312813056 total 0.002101898193359375
+DEBUG 2019-09-12 22:45:00,710 forms 1214 123145312813056 total 0.0032100677490234375
+INFO 2019-09-12 22:45:17,760 autoreload 1251 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-12 22:45:25,349 forms 1251 123145312813056 total 0.003052949905395508
+DEBUG 2019-09-12 22:45:51,940 forms 1251 123145312813056 total 0.0026581287384033203
+DEBUG 2019-09-12 22:54:07,129 forms 1251 123145312813056 total 0.002866029739379883
+INFO 2019-09-12 22:54:16,138 autoreload 1291 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-12 22:54:21,778 forms 1291 123145312813056 total 0.003290891647338867
+DEBUG 2019-09-12 22:58:34,804 forms 1291 123145312813056 total 0.002805948257446289
+INFO 2019-09-12 23:00:45,149 autoreload 1352 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-12 23:00:54,725 forms 1352 123145312813056 total 0.0026280879974365234
+DEBUG 2019-09-12 23:01:08,186 forms 1352 123145312813056 total 0.0021817684173583984
+DEBUG 2019-09-12 23:01:28,254 forms 1352 123145312813056 total 0.002573251724243164
+DEBUG 2019-09-12 23:02:30,614 forms 1352 123145312813056 total 0.002785921096801758
+DEBUG 2019-09-12 23:04:13,840 forms 1352 123145312813056 total 0.0025899410247802734
+DEBUG 2019-09-12 23:05:23,613 forms 1352 123145312813056 total 0.0024378299713134766
+DEBUG 2019-09-12 23:07:44,779 forms 1352 123145312813056 total 0.0020241737365722656
+DEBUG 2019-09-12 23:12:07,335 forms 1352 123145312813056 total 0.00392603874206543
+DEBUG 2019-09-12 23:13:03,052 forms 1352 123145312813056 total 0.0023109912872314453
+INFO 2019-09-12 23:13:58,062 autoreload 1352 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/forms.py changed, reloading.
+INFO 2019-09-12 23:13:58,861 autoreload 1410 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-13 21:56:59,278 autoreload 2344 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 21:57:10,346 forms 2344 123145312813056 total 0.006993770599365234
+DEBUG 2019-09-13 21:59:22,324 forms 2344 123145312813056 total 0.0028510093688964844
+INFO 2019-09-13 22:00:25,230 autoreload 2379 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 22:00:35,291 forms 2379 123145312813056 total 0.0041849613189697266
+DEBUG 2019-09-13 22:03:40,627 forms 2379 123145312813056 total 0.002624034881591797
+DEBUG 2019-09-13 22:05:41,839 forms 2379 123145312813056 total 0.004165172576904297
+DEBUG 2019-09-13 22:06:36,848 forms 2379 123145312813056 total 0.003622770309448242
+DEBUG 2019-09-13 22:07:43,658 forms 2379 123145312813056 total 0.003092050552368164
+WARNING 2019-09-13 22:09:38,603 log 2379 123145312813056 Not Found: /Author/Yukitaka Murakami/503
+WARNING 2019-09-13 22:09:53,906 log 2379 123145312813056 Not Found: /Author/Yukitaka Murakami/503
+DEBUG 2019-09-13 22:11:18,009 forms 2379 123145312813056 total 0.0032949447631835938
+WARNING 2019-09-13 22:11:21,953 log 2379 123145312813056 Not Found: /Author/Amit Goyal, Winnie K. Wong-Ng, Masato Murakami, Judith Driscoll/503
+DEBUG 2019-09-13 22:14:48,017 forms 2379 123145312813056 total 0.0023348331451416016
+DEBUG 2019-09-13 22:15:55,678 forms 2379 123145312813056 total 0.001798868179321289
+DEBUG 2019-09-13 22:19:32,274 forms 2379 123145312813056 total 0.002847909927368164
+DEBUG 2019-09-13 22:22:44,430 forms 2379 123145312813056 total 0.0018239021301269531
+DEBUG 2019-09-13 22:24:26,714 forms 2379 123145312813056 total 0.0023779869079589844
+DEBUG 2019-09-13 22:37:06,951 forms 2379 123145312813056 total 0.003091096878051758
+INFO 2019-09-13 22:37:18,978 autoreload 2828 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 22:37:35,216 forms 2828 123145312813056 total 0.003124237060546875
+INFO 2019-09-13 22:39:41,574 autoreload 2941 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 22:39:48,080 forms 2941 123145312813056 total 0.0032052993774414062
+WARNING 2019-09-13 22:39:52,507 log 2941 123145312813056 Not Found: /media/Hacienda.jpeg
+WARNING 2019-09-13 22:40:38,951 log 2941 123145312813056 Not Found: /media/Hacienda.jpeg
+WARNING 2019-09-13 22:41:56,948 log 2941 123145312813056 Not Found: /media/Hacienda.jpeg
+WARNING 2019-09-13 22:42:43,863 log 2941 123145312813056 Not Found: /media/Hacienda.jpeg
+WARNING 2019-09-13 22:43:16,990 log 2941 123145312813056 Not Found: /media/Hacienda.jpeg
+WARNING 2019-09-13 22:43:21,171 log 2941 123145312813056 Not Found: /media/Hacienda.jpeg
+WARNING 2019-09-13 22:44:06,949 log 2941 123145312813056 Not Found: /media/Hacienda.jpeg
+WARNING 2019-09-13 22:44:12,208 log 2941 123145312813056 Not Found: /media/Hacienda.jpeg
+WARNING 2019-09-13 22:44:17,128 log 2941 123145312813056 Not Found: /media/Hacienda.jpeg
+INFO 2019-09-13 22:44:35,072 autoreload 3023 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-13 22:47:10,839 autoreload 3042 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-13 22:52:58,016 autoreload 3188 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 22:53:08,286 forms 3188 123145312813056 total 0.002769947052001953
+INFO 2019-09-13 22:57:02,885 autoreload 3219 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 22:57:08,720 forms 3219 123145312813056 total 0.0029299259185791016
+INFO 2019-09-13 23:09:35,876 autoreload 3293 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 23:09:45,241 forms 3293 123145312813056 total 0.0035860538482666016
+INFO 2019-09-13 23:13:20,271 autoreload 3330 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 23:13:26,030 forms 3330 123145312813056 total 0.003422975540161133
+DEBUG 2019-09-13 23:18:32,525 forms 3330 123145312813056 total 0.0030498504638671875
+INFO 2019-09-13 23:19:31,850 autoreload 3391 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 23:19:38,970 forms 3391 123145312813056 total 0.0029571056365966797
+ERROR 2019-09-13 23:29:26,526 log 3391 123145312813056 Internal Server Error: /Author/Haruki Murakami/books
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 29, in books_redirect
+    return render(request, 'downloads/book_detail.html',{'name':Books.objects.values('Title','Mirrors').filter(Author__contains=name).distinct()})
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR 2019-09-13 23:29:45,145 log 3391 123145312813056 Internal Server Error: /Author/Haruki Murakami/books
+Traceback (most recent call last):
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py", line 29, in books_redirect
+    return render(request, 'downloads/book_detail.html',{'name':Books.objects.values('Title','Mirrors').filter(Author__contains=name).distinct()})
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/christopherencalada/Desktop/Scraping project/venv/lib/python3.7/site-packages/django/urls/resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+DEBUG 2019-09-13 23:31:37,334 forms 3391 123145312813056 total 0.0025141239166259766
+INFO 2019-09-13 23:32:21,317 autoreload 3391 140735239954432 /Users/christopherencalada/Desktop/Scraping project/scrape_libgen/b_books/downloads/views.py changed, reloading.
+INFO 2019-09-13 23:32:22,060 autoreload 3482 140735239954432 Watching for file changes with StatReloader
+INFO 2019-09-13 23:32:37,143 autoreload 3494 140735239954432 Watching for file changes with StatReloader
+DEBUG 2019-09-13 23:32:47,522 forms 3494 123145312813056 total 0.0038652420043945312
+DEBUG 2019-09-13 23:35:30,735 forms 3494 123145312813056 total 0.0026590824127197266
+DEBUG 2019-09-13 23:35:41,586 forms 3494 123145312813056 total 0.0031328201293945312

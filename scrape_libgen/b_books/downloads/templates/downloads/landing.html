@@ -4,7 +4,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Fast Book downloads </title>
+	<title>LibWrapper </title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
 
 </head>
 
@@ -12,11 +15,21 @@
 <p> Success</p>
 
 {% else %}
+
+<nav class="navbar navbar-dark bg-dark fixed-top">
+<header class="header">
+  <div class="header-text"></div>
+  <a href="{% url 'landing' %}" class="header-link">Home</a>
+</header>
+</nav>
+
+
+
 <body>
 
 
 
-
+<div class="wrapper">
 	<!--Use a get request to request the website to scrape the selected author-->
 	<form action="" method="post" novalidate>
 	<table>
@@ -29,7 +42,7 @@
 	</table>	
 	{% csrf_token %}
 	</form>
-
+</div>
 
 {% endif %}
 
