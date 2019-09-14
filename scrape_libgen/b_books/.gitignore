@@ -1,0 +1,6 @@
+db.sqlite3
+all_logs.log
+error_logs.log
+Books
+__pycache__
+*.pyc
