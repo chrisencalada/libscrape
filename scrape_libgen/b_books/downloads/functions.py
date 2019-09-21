@@ -10,6 +10,11 @@ from multiprocessing import Pool
 from multiprocessing import cpu_count
 import logging
 import time
+import unicodedata
+import nltk
+from nltk.tokenize import word_tokenize
+import string
+from nltk.corpus import stopwords
 
 
 
@@ -58,9 +63,9 @@ def scrape(input_author):
     s = requests.Session()
     book_list = []
     for page in range(1,10,1):
-        logger.debug('page' + str(page))
+        logger.error('page' + str(page))
         url = 'http://gen.lib.rus.ec/search.php?'
-        payload = {"req":input_author,"page":page,"res":100,"phrase":1}
+        payload = {"req":input_author,"page":page,"res":100,"phrase":1,"column":"author"}
         
         start = time.time()
         r = request_w_proxies(url,s,payload)
@@ -96,7 +101,7 @@ def scrape(input_author):
             
             book_list.append(cell_value)
         end = time.time()
-        logger.debug('sub-requests' +' '+ str(end-start))
+        logger.error('sub-requests' +' '+ str(end-start))
 
     return book_list
 
@@ -108,12 +113,56 @@ def make_dict_get_urls(input_author):
     #using multiprocessing to request the complete list of mirrors to get the actual download urls
     pool = Pool(cpu_count()*2)
     dictList = pool.map(request_multithread,dictList)
+    pool.close()
+    pool.terminate()
+    pool.join()
+   
+    for book in dictList:
+        book['Author_original'] = book['Author(s)']
+
     #replace any blank records with NA
     for book in dictList:
         for key,value in book.items():
             if value == '':
                 book[key] = 'NA'
+    
+
+   
+    #tokenized = [strip_accents(author['Author(s)']) for author in dictList]
+    #translator = str.maketrans('', '', string.punctuation)
+    #stopwords = ['eds','auth','Eds']
+    #combo_regex = "(" + ")|(".join(stopwords) + ")"
+    #tokenized = [re.sub(r',-', ' ',author) for author in tokenized]
+    #tokenized = [author.translate(translator) for author in tokenized]
+    #tokenized = [re.sub(r'\b\w{1,2}\b', '',author) for author in tokenized]
+    #tokenized = [re.sub(combo_regex, '',author) for author in tokenized]
+    #tokenized = [word_tokenize(author) for author in tokenized]
+    #make names
+
+
+    #logger.error(cleaned_authors)
+
     end = time.time()
-    logger.debug('dict' +' '+ str(end-start))
+    logger.error('dict' +' '+ str(end-start))
     
     return dictList
+
+
+def data_matching(input):
+    tokenized = [{word_tokenize(author['Author(s)'])} for author in input]
+    logger.error(tokenized)
+
+def strip_accents(text):
+    try:
+        text = unicode(text, 'utf-8')
+    except NameError: # unicode is a default on python 3 
+        pass
+
+    text = unicodedata.normalize('NFD', text)\
+           .encode('ascii', 'ignore')\
+           .decode("utf-8")
+
+    return str(text)
+
+
+
