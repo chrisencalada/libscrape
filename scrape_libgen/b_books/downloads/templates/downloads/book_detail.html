@@ -28,7 +28,7 @@
 		<thead class="thead-dark">
 			<tr>
 				<th class="Author">Title</th>
-				<th class="Author">Link</th>
+				<th class="Link">Link</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -36,7 +36,7 @@
 			<tr>
 				<td id="Title">{{ item.Title }}</td>
 				<td id="Mirror" >
-					{{ item.Mirrors }}
+					<a href='{{item.Mirrors}} 'target="_blank">Download</a>					
 					
 				</td>
 			</tr>

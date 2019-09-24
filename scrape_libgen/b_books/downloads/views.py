@@ -6,6 +6,7 @@ from .forms import AuthorForm
 from django.db.models import Count
 from django.forms import ModelForm
 from django.urls import reverse
+import re
 import time
 import logging
 from .functions import request_multithread, request_w_proxies, scrape, make_dict_get_urls
@@ -29,8 +30,11 @@ class SearchView(FormView):
     def form_valid(self,form):
         cd = form['A_Name'].value()
         name = [cd]
-        logger.error(Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title')).filter(Title_count__gt=10).exists())
-        if Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title')).filter(Title_count__gt=10).exists():
+        #play around with queryset to see how the ORM constructs sql queries
+        queryset_1 = Books.objects.values('Author').filter(Author__contains=cd).distinct().filter(Title__gt=10).annotate(Title_count=Count('Title'))
+        logger.error(queryset_1.query)
+        #authors that have more than 10 books are considered already scraped and will not be scraped again
+        if Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title')).filter(Title_count__gte=10).exists():
                 return redirect(reverse('Author',args=name))
         else:
             start = time.time()
@@ -76,9 +80,9 @@ class AuthorDetailView(View):
         return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=name).distinct().annotate(Title_count=Count('Title')).order_by('-Title_count')}) 
 
     def post(self, request, *args, **kwargs):
-        selected_author = request.POST.get('get_book')
-        logger.error('request: '+str(request.POST.get('get_book')))
+        selected_author = request.POST.getlist('get_book')
         selected_author = [selected_author]
+        logger.error('request: '+str(selected_author))
         return redirect(reverse('books',args=selected_author))
 
 
@@ -90,7 +94,10 @@ class BookDetailView(TemplateView):
     def get_context_data(self,**kwargs):
         name = super().get_context_data(**kwargs)
         name = name['name']
-        queryset = {'name':Books.objects.values('Title','Mirrors').filter(Author=name).distinct()}
+        names = name.strip('[]')
+        names = names.split(',')
+        queryset = {'name':Books.objects.values('Title','Mirrors').filter(Author__in=names).distinct()}
+        logger.error('query: '+str(queryset['name'].query))
         return queryset
 
 

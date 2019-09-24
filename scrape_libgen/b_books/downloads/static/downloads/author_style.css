@@ -9,6 +9,7 @@ body {
 
 .Author{
 	text-align: center;
+    max-width: 400px;
 }
 #table_1{ max-width: 600px;
 margin-left: auto; 
@@ -18,11 +19,8 @@ display: inline-block;
 text-align: center;
 }
 #Title{
-	max-width: 200px;
-}
-#Mirror{
-	word-break: break-all;
-
+	
+overflow-wrap: break-word;
 }
 
 
