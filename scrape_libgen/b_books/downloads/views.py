@@ -31,10 +31,10 @@ class SearchView(FormView):
         cd = form['A_Name'].value()
         name = [cd]
         #play around with queryset to see how the ORM constructs sql queries
-        queryset_1 = Books.objects.values('Author').filter(Author__contains=cd).distinct().filter(Title__gt=10).annotate(Title_count=Count('Title'))
+        queryset_1 = Books.objects.values('Author').filter(Author__icontains=cd).distinct().filter(Title__gt=10).annotate(Title_count=Count('Title'))
         logger.error(queryset_1.query)
         #authors that have more than 10 books are considered already scraped and will not be scraped again
-        if Books.objects.values('Author').filter(Author__contains=cd).distinct().annotate(Title_count=Count('Title')).filter(Title_count__gte=10).exists():
+        if Books.objects.values('Author').filter(Author__icontains=cd).distinct().annotate(Title_count=Count('Title')).filter(Title_count__gte=10).exists():
                 return redirect(reverse('Author',args=name))
         else:
             start = time.time()
@@ -77,7 +77,7 @@ class AuthorDetailView(View):
         name = self.kwargs
         name = name['name']
         logger.error(name)
-        return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__contains=name).distinct().annotate(Title_count=Count('Title')).order_by('-Title_count')}) 
+        return render(request,'downloads/index.html',{'name':Books.objects.values('Author').filter(Author__icontains=name).distinct().annotate(Title_count=Count('Title')).order_by('-Title_count')}) 
 
     def post(self, request, *args, **kwargs):
         selected_author = request.POST.getlist('get_book')

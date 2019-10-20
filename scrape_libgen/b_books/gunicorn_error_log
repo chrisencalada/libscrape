@@ -1,0 +1,94 @@
+[2019-10-07 23:55:34 +0000] [2595] [INFO] Starting gunicorn 19.9.0
+[2019-10-07 23:55:34 +0000] [2595] [INFO] Listening at: unix:/home/coli/libscrape/libscrape/scrape_libgen/b_books/b_books.sock (2595)
+[2019-10-07 23:55:34 +0000] [2595] [INFO] Using worker: gevent
+[2019-10-07 23:55:34 +0000] [2617] [INFO] Booting worker with pid: 2617
+[2019-10-07 23:55:34 +0000] [2618] [INFO] Booting worker with pid: 2618
+[2019-10-07 23:55:34 +0000] [2619] [INFO] Booting worker with pid: 2619
+[2019-10-09 15:30:35 +0000] [2617] [INFO] Worker exiting (pid: 2617)
+[2019-10-09 15:30:35 +0000] [2595] [INFO] Handling signal: term
+[2019-10-09 15:30:35 +0000] [2619] [INFO] Worker exiting (pid: 2619)
+[2019-10-09 15:30:35 +0000] [2618] [INFO] Worker exiting (pid: 2618)
+[2019-10-09 15:30:36 +0000] [2595] [INFO] Shutting down: Master
+[2019-10-09 15:30:38 +0000] [30698] [INFO] Starting gunicorn 19.9.0
+[2019-10-09 15:30:38 +0000] [30698] [INFO] Listening at: unix:/home/coli/libscrape/libscrape/scrape_libgen/b_books/b_books.sock (30698)
+[2019-10-09 15:30:38 +0000] [30698] [INFO] Using worker: gevent
+[2019-10-09 15:30:38 +0000] [30714] [INFO] Booting worker with pid: 30714
+[2019-10-09 15:30:38 +0000] [30715] [INFO] Booting worker with pid: 30715
+[2019-10-09 15:30:38 +0000] [30716] [INFO] Booting worker with pid: 30716
+[2019-10-11 23:17:57 +0000] [30698] [INFO] Handling signal: term
+[2019-10-11 23:17:58 +0000] [30714] [INFO] Worker exiting (pid: 30714)
+[2019-10-11 23:17:58 +0000] [30715] [INFO] Worker exiting (pid: 30715)
+[2019-10-11 23:17:58 +0000] [30716] [INFO] Worker exiting (pid: 30716)
+[2019-10-11 23:17:59 +0000] [30698] [INFO] Shutting down: Master
+[2019-10-11 23:18:56 +0000] [673] [INFO] Starting gunicorn 19.9.0
+[2019-10-11 23:18:56 +0000] [673] [INFO] Listening at: unix:/home/coli/libscrape/libscrape/scrape_libgen/b_books/b_books.sock (673)
+[2019-10-11 23:18:56 +0000] [673] [INFO] Using worker: gevent
+[2019-10-11 23:18:56 +0000] [779] [INFO] Booting worker with pid: 779
+[2019-10-11 23:18:56 +0000] [781] [INFO] Booting worker with pid: 781
+[2019-10-11 23:18:56 +0000] [786] [INFO] Booting worker with pid: 786
+[2019-10-20 16:03:06 +0000] [673] [INFO] Handling signal: term
+[2019-10-20 16:03:06 +0000] [781] [INFO] Worker exiting (pid: 781)
+[2019-10-20 16:03:06 +0000] [779] [INFO] Worker exiting (pid: 779)
+[2019-10-20 16:03:06 +0000] [786] [INFO] Worker exiting (pid: 786)
+[2019-10-20 16:03:11 +0000] [673] [INFO] Shutting down: Master
+[2019-10-20 16:09:33 +0000] [12250] [INFO] Starting gunicorn 19.9.0
+[2019-10-20 16:09:33 +0000] [12250] [INFO] Listening at: unix:/run/gunicorn.sock (12250)
+[2019-10-20 16:09:33 +0000] [12250] [INFO] Using worker: gevent
+[2019-10-20 16:09:33 +0000] [12267] [INFO] Booting worker with pid: 12267
+[2019-10-20 16:09:33 +0000] [12268] [INFO] Booting worker with pid: 12268
+[2019-10-20 16:09:33 +0000] [12269] [INFO] Booting worker with pid: 12269
+[2019-10-20 16:27:02 +0000] [12250] [INFO] Handling signal: term
+[2019-10-20 16:27:03 +0000] [12267] [INFO] Worker exiting (pid: 12267)
+[2019-10-20 16:27:03 +0000] [12269] [INFO] Worker exiting (pid: 12269)
+[2019-10-20 16:27:03 +0000] [12268] [INFO] Worker exiting (pid: 12268)
+[2019-10-20 16:27:04 +0000] [12250] [INFO] Shutting down: Master
+[2019-10-20 16:27:05 +0000] [12815] [INFO] Starting gunicorn 19.9.0
+[2019-10-20 16:27:05 +0000] [12815] [INFO] Listening at: unix:/run/gunicorn.sock (12815)
+[2019-10-20 16:27:05 +0000] [12815] [INFO] Using worker: gevent
+[2019-10-20 16:27:05 +0000] [12835] [INFO] Booting worker with pid: 12835
+[2019-10-20 16:27:05 +0000] [12836] [INFO] Booting worker with pid: 12836
+[2019-10-20 16:27:05 +0000] [12838] [INFO] Booting worker with pid: 12838
+[2019-10-20 16:53:22 +0000] [12815] [INFO] Handling signal: term
+[2019-10-20 16:53:22 +0000] [12835] [INFO] Worker exiting (pid: 12835)
+[2019-10-20 16:53:22 +0000] [12836] [INFO] Worker exiting (pid: 12836)
+[2019-10-20 16:53:22 +0000] [12838] [INFO] Worker exiting (pid: 12838)
+[2019-10-20 16:53:23 +0000] [12815] [INFO] Shutting down: Master
+[2019-10-20 16:53:24 +0000] [13332] [INFO] Starting gunicorn 19.9.0
+[2019-10-20 16:53:24 +0000] [13332] [INFO] Listening at: unix:/run/gunicorn.sock (13332)
+[2019-10-20 16:53:24 +0000] [13332] [INFO] Using worker: gevent
+[2019-10-20 16:53:24 +0000] [13353] [INFO] Booting worker with pid: 13353
+[2019-10-20 16:53:24 +0000] [13354] [INFO] Booting worker with pid: 13354
+[2019-10-20 16:53:24 +0000] [13355] [INFO] Booting worker with pid: 13355
+[2019-10-20 16:53:42 +0000] [13332] [INFO] Handling signal: term
+[2019-10-20 16:53:43 +0000] [13353] [INFO] Worker exiting (pid: 13353)
+[2019-10-20 16:53:43 +0000] [13355] [INFO] Worker exiting (pid: 13355)
+[2019-10-20 16:53:43 +0000] [13354] [INFO] Worker exiting (pid: 13354)
+[2019-10-20 16:53:44 +0000] [13332] [INFO] Shutting down: Master
+[2019-10-20 16:54:34 +0000] [13422] [INFO] Starting gunicorn 19.9.0
+[2019-10-20 16:54:34 +0000] [13422] [INFO] Listening at: unix:/run/gunicorn.sock (13422)
+[2019-10-20 16:54:34 +0000] [13422] [INFO] Using worker: gevent
+[2019-10-20 16:54:34 +0000] [13441] [INFO] Booting worker with pid: 13441
+[2019-10-20 16:54:34 +0000] [13443] [INFO] Booting worker with pid: 13443
+[2019-10-20 16:54:34 +0000] [13442] [INFO] Booting worker with pid: 13442
+[2019-10-20 20:52:58 +0000] [13422] [INFO] Handling signal: term
+[2019-10-20 20:52:58 +0000] [13442] [INFO] Worker exiting (pid: 13442)
+[2019-10-20 20:52:59 +0000] [13441] [INFO] Worker exiting (pid: 13441)
+[2019-10-20 20:52:59 +0000] [13443] [INFO] Worker exiting (pid: 13443)
+[2019-10-20 20:53:00 +0000] [13422] [INFO] Shutting down: Master
+[2019-10-20 20:53:01 +0000] [16129] [INFO] Starting gunicorn 19.9.0
+[2019-10-20 20:53:01 +0000] [16129] [INFO] Listening at: unix:/run/gunicorn.sock (16129)
+[2019-10-20 20:53:01 +0000] [16129] [INFO] Using worker: gevent
+[2019-10-20 20:53:01 +0000] [16149] [INFO] Booting worker with pid: 16149
+[2019-10-20 20:53:01 +0000] [16150] [INFO] Booting worker with pid: 16150
+[2019-10-20 20:53:01 +0000] [16151] [INFO] Booting worker with pid: 16151
+[2019-10-20 20:53:35 +0000] [16129] [INFO] Handling signal: term
+[2019-10-20 20:53:36 +0000] [16150] [INFO] Worker exiting (pid: 16150)
+[2019-10-20 20:53:36 +0000] [16151] [INFO] Worker exiting (pid: 16151)
+[2019-10-20 20:53:36 +0000] [16149] [INFO] Worker exiting (pid: 16149)
+[2019-10-20 20:53:37 +0000] [16129] [INFO] Shutting down: Master
+[2019-10-20 20:53:37 +0000] [16271] [INFO] Starting gunicorn 19.9.0
+[2019-10-20 20:53:37 +0000] [16271] [INFO] Listening at: unix:/run/gunicorn.sock (16271)
+[2019-10-20 20:53:37 +0000] [16271] [INFO] Using worker: gevent
+[2019-10-20 20:53:37 +0000] [16285] [INFO] Booting worker with pid: 16285
+[2019-10-20 20:53:37 +0000] [16286] [INFO] Booting worker with pid: 16286
+[2019-10-20 20:53:37 +0000] [16287] [INFO] Booting worker with pid: 16287

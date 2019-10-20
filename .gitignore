@@ -2,3 +2,9 @@
 *__pycache__/
 *.log
 *.settings.py
+*.secret_variables.py
+*.secret_settings.py
+static/
+*migrations/
+*gunicorn
+

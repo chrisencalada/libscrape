@@ -6,7 +6,7 @@ from time import sleep
 import json
 from urllib.request import urlopen
 import re
-from multiprocessing import Pool
+from multiprocessing.dummy import Pool
 from multiprocessing import cpu_count
 import logging
 import time
@@ -15,7 +15,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 import string
 from nltk.corpus import stopwords
-
+from .secret_variables import *
 
 
 logger = logging.getLogger(__name__)
@@ -23,11 +23,9 @@ logger = logging.getLogger(__name__)
 
 def request_multithread(booklist):
     sessions = requests.Session()
-    proxies = {'http': 'socks5h://x1566907:b63SAHfRsG@proxy-nl.privateinternetaccess.com:1080',
-    'https': 'socks5h://x1566907:b63SAHfRsG@proxy-nl.privateinternetaccess.com:1080'}
     user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'
     headers = {'User-Agent':user_agent}
-    response = sessions.get(booklist['Mirrors'], proxies=proxies,headers=headers)
+    response = sessions.get(booklist['Mirrors'], proxies=secret_proxies,headers=headers)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text,features='html5lib')
         pathname = soup.find('a',href=True)
@@ -38,7 +36,6 @@ def request_multithread(booklist):
     else:
         #change to get second mirror?
         booklist['Mirrors'] = response.status_code
-
     return booklist
 
 def request_w_proxies(url,s,payload):
@@ -112,6 +109,7 @@ def make_dict_get_urls(input_author):
     dictList[:] = [d for d in  dictList if d.get('Mirrors') != 'Mirrors']
     #using multiprocessing to request the complete list of mirrors to get the actual download urls
     pool = Pool(cpu_count()*2)
+    logger.error('cpus:'+str(cpu_count))
     dictList = pool.map(request_multithread,dictList)
     pool.close()
     pool.terminate()
