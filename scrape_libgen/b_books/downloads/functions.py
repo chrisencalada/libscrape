@@ -39,8 +39,6 @@ def request_multithread(booklist):
     return booklist
 
 def request_w_proxies(url,s,payload):
-        proxies = {'http': 'socks5h://x1566907:b63SAHfRsG@proxy-nl.privateinternetaccess.com:1080',
-                   'https': 'socks5h://x1566907:b63SAHfRsG@proxy-nl.privateinternetaccess.com:1080'}
 
         user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'
         s= s
@@ -49,7 +47,7 @@ def request_w_proxies(url,s,payload):
         #s.mount('https://',adapter)
         #s.mount('http://',adapter)
         headers = {'User-Agent':user_agent}
-        r = s.get(url,headers=headers,proxies=proxies,params=payload)
+        r = s.get(url,headers=headers,proxies=secret_proxies,params=payload)
         r.encoding = 'utf-8'
 
 

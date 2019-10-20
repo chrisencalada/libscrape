@@ -92,3 +92,124 @@
 [2019-10-20 20:53:37 +0000] [16285] [INFO] Booting worker with pid: 16285
 [2019-10-20 20:53:37 +0000] [16286] [INFO] Booting worker with pid: 16286
 [2019-10-20 20:53:37 +0000] [16287] [INFO] Booting worker with pid: 16287
+[2019-10-20 21:47:46 +0000] [16271] [INFO] Handling signal: term
+[2019-10-20 21:47:46 +0000] [16287] [INFO] Worker exiting (pid: 16287)
+[2019-10-20 21:47:47 +0000] [16286] [INFO] Worker exiting (pid: 16286)
+[2019-10-20 21:47:47 +0000] [16285] [INFO] Worker exiting (pid: 16285)
+[2019-10-20 21:47:48 +0000] [16271] [INFO] Shutting down: Master
+[2019-10-20 21:47:49 +0000] [17300] [INFO] Starting gunicorn 19.9.0
+[2019-10-20 21:47:49 +0000] [17300] [INFO] Listening at: unix:/run/gunicorn.sock (17300)
+[2019-10-20 21:47:49 +0000] [17300] [INFO] Using worker: gevent
+[2019-10-20 21:47:49 +0000] [17321] [INFO] Booting worker with pid: 17321
+[2019-10-20 21:47:49 +0000] [17322] [INFO] Booting worker with pid: 17322
+[2019-10-20 21:47:49 +0000] [17323] [INFO] Booting worker with pid: 17323
+[2019-10-20 21:47:50 +0000] [17322] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/home/coli/libscrape/libscrape/scrape_libgen/b_books/b_books/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/conf/__init__.py", line 79, in __getattr__
+    self._setup(name)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/conf/__init__.py", line 66, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/conf/__init__.py", line 157, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/home/coli/libscrape/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/coli/libscrape/libscrape/scrape_libgen/b_books/b_books/settings.py", line 14, in <module>
+    from .secret_settings import *
+ModuleNotFoundError: No module named 'b_books.secret_settings'
+[2019-10-20 21:47:50 +0000] [17322] [INFO] Worker exiting (pid: 17322)
+[2019-10-20 21:47:50 +0000] [17321] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/home/coli/libscrape/libscrape/scrape_libgen/b_books/b_books/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/conf/__init__.py", line 79, in __getattr__
+    self._setup(name)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/conf/__init__.py", line 66, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/conf/__init__.py", line 157, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/home/coli/libscrape/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/coli/libscrape/libscrape/scrape_libgen/b_books/b_books/settings.py", line 14, in <module>
+    from .secret_settings import *
+ModuleNotFoundError: No module named 'b_books.secret_settings'
+[2019-10-20 21:47:50 +0000] [17321] [INFO] Worker exiting (pid: 17321)
+[2019-10-20 21:47:50 +0000] [17323] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/workers/ggevent.py", line 203, in init_process
+    super(GeventWorker, self).init_process()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+  File "/home/coli/libscrape/libscrape/scrape_libgen/b_books/b_books/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/conf/__init__.py", line 79, in __getattr__
+    self._setup(name)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/conf/__init__.py", line 66, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/coli/libscrape/venv/lib/python3.6/site-packages/django/conf/__init__.py", line 157, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/home/coli/libscrape/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/coli/libscrape/libscrape/scrape_libgen/b_books/b_books/settings.py", line 14, in <module>
+    from .secret_settings import *
+ModuleNotFoundError: No module named 'b_books.secret_settings'
+[2019-10-20 21:47:50 +0000] [17323] [INFO] Worker exiting (pid: 17323)
+[2019-10-20 21:47:51 +0000] [17300] [INFO] Shutting down: Master
+[2019-10-20 21:47:51 +0000] [17300] [INFO] Reason: Worker failed to boot.

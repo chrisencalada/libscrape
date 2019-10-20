@@ -377,3 +377,5 @@
  - - [20/Oct/2019:20:57:12 +0000] "POST /Author/homer/ HTTP/1.0" 302 0 "https://muraki.xyz/Author/homer/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
  - - [20/Oct/2019:20:57:13 +0000] "GET /Author/%5B'Homer'%5D/books HTTP/1.0" 200 9442 "https://muraki.xyz/Author/homer/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
  - - [20/Oct/2019:20:57:14 +0000] "GET / HTTP/1.0" 200 1194 "https://muraki.xyz/Author/%5B'Homer'%5D/books" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+ - - [20/Oct/2019:21:32:30 +0000] "GET /robots.txt HTTP/1.0" 404 77 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+ - - [20/Oct/2019:21:32:49 +0000] "GET / HTTP/1.0" 200 1194 "https://github.com/chrisencalada/libscrape/blob/master/README.md" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
